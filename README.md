@@ -1,5 +1,6 @@
 # Hi there, I am Amey Band 👋
-![Alt_Text](https://github.com/Amey23/Amey23/blob/main/main.gif)
+
+<img src="https://github.com/Amey23/Amey23/blob/main/main.gifg" width="350" />
 
 ## Objective:
 > Extremely motivated towards enhancing my solution deriving skills to develop new innovative machine learning models for predicting the accurate results and achieve the maximum accuracy. Always looking to shape up myself with every update of my skilled technology. Looking for the best opportunities to improve my understanding of solving real-life problems in machine learning and deep learning domain. 
