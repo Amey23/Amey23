@@ -3,46 +3,43 @@
 ### Objective:
 > Extremely motivated towards enhancing my solution deriving skills to develop new innovative machine learning models for predicting the accurate results and achieve the maximum accuracy. Always looking to shape up myself with every update of my skilled technology. Looking for the best opportunities to improve my understanding of solving real-life problems in machine learning and deep learning domain. 
 
-<br>
-
 ## About Me
+<br>
+- I am BE Computer Science Engineering Graduate passed out in 2020. I'm having an <b>extensive experience in working with Technologies like Data Science, Machine Learning and additionally I have web developement skills.</b>
+- <b>Data Science practitioner</b> with a Hands-on Experience in <b>Python, Flask, Streamlit, SQL</b>
+<br>
+- Experienced in developing <b>Data Science web applications with Machine Learning using Python</b>. Machine Learning Techniques includes <b>Linear Regression, Logistic Regression, Random Forest and some advanced Machine Learning Algorithms.</b>
+<br>
+- Skilled in libraries such as <b>Sklearn, Scipy, Numpy, Pandas, Matplotlib, Plotly, Seaborn, Imblearn, Tableau for Data Visualization.</b>
+<br>
+-  Additional skills are <b>HTML & CSS, Bootstrap</b> and basic <b>Data Structures and algorithms.</b>
+<br>
+-  Possessing an <b>ability to be a good data storyteller.</b>
+<br>
+-  <b>Team Player with good communication skills and self-motivated attitude.</b>
+<br>
+-  <b>Contributor to the Data Science Community.</b>
 <br><br>
-âž¢ I am BE Computer Science Engineering Graduate passed out in 2020. I'm having an <b>extensive experience in working with Technologies like Data Science, Machine Learning and additionally I have web developement skills.</b>
-
-âž¢ <b>Data Science practitioner</b> with a Hands-on Experience in <b>Python, Flask, Streamlit, SQL</b>
-<br>
-âž¢ Experienced in developing <b>Data Science web applications with Machine Learning using Python</b>. Machine Learning Techniques includes <b>Linear Regression, Logistic Regression, Random Forest and some advanced Machine Learning Algorithms.</b>
-<br>
-âž¢ Skilled in libraries such as <b>Sklearn, Scipy, Numpy, Pandas, Matplotlib, Plotly, Seaborn, Imblearn, Tableau for Data Visualization.</b>
-<br>
-âž¢ Additional skills are <b>HTML & CSS, Bootstrap</b> and basic <b>Data Structures and algorithms.</b>
-<br>
-âž¢ Possessing an <b>ability to be a good data storyteller.</b>
-<br>
-âž¢ <b>Team Player with good communication skills and self-motivated attitude.</b>
-<br>
-âž¢ <b>Contributor to the Data Science Community.</b>
-<br><br><br>
-Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
+### Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 
 <html><font size="15"><b>MY Skill Set</b> </font></html>
-<br><br>
+<br>
 
-<b>Technology</b>               : Data Analytics, Machine Learning, Data Visualization
+- <b>Technology</b>               : Data Analytics, Machine Learning, Data Visualization
 <br>
-<b>Programming</b>               : Python, C, C++
+- <b>Programming</b>               : Python, C, C++
 <br>
-<b>Packages/Frameworks </b>      : Numpy, Pandas, Scikit-learn, Statsmodels, Scipy, NLTK, Tensorflow
+- <b>Packages/Frameworks </b>      : Numpy, Pandas, Scikit-learn, Statsmodels, Scipy, NLTK, Tensorflow
 <br>
-<b>Visualization Libraries</b>   : Matplotlib, Seaborn, Plotly 
+- <b>Visualization Libraries</b>   : Matplotlib, Seaborn, Plotly 
 <br>
-<b>Software / IDE</b>            : Jupyter Notebook, Spyder IDE, Sublime Text
+- <b>Software / IDE</b>            : Jupyter Notebook, Spyder IDE, Sublime Text
 <br>
-<b>Deployment Frameworks</b>     : Flask, Streamlit, Dash 
+- <b>Deployment Frameworks</b>     : Flask, Streamlit, Dash 
 <br>
-<b>Cloud Platforms</b>           : Heroku Cloud Platform 
+- <b>Cloud Platforms</b>           : Heroku Cloud Platform 
 <br>
-<b>Exposure </b>                 : R, RStudio, PyCharm IDE, Data Structures and Algorithms,OOPs
+- <b>Exposure </b>                 : R, RStudio, PyCharm IDE, Data Structures and Algorithms,OOPs
 <br>
 <!--
 <br><br>
