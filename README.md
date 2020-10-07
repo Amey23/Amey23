@@ -33,9 +33,9 @@
  
 <br>
 
-## MY Skill Set
+## MY Skill Set:
 
-- <b>Technology</b>               : Data Analytics, Machine Learning, Data Visualization
+- <b>Technology</b>                : Data Analytics, Machine Learning, Data Visualization
 
 - <b>Programming</b>               : Python, C, C++
 
@@ -49,15 +49,12 @@
 
 - <b>Cloud Platforms</b>           : Heroku Cloud Platform 
 
-- <b>Exposure </b>                 : R, RStudio, PyCharm IDE, Data Structures and Algorithms,OOPs
+- <b>Exposure </b>                 : R, RStudio, PyCharm IDE, Data Structures and Algorithms, OOPs
 
-<!--
-<br><br>
-![Alt Text](https://github.com/DheerajKumar97/DheerajKumar97/blob/master/res%20gif.gif)
--->
+
 <br>
 
-### Connect with me:
+## Connect with me:
 
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
 
