@@ -8,24 +8,26 @@
 - I am BE Computer Science Engineering Graduate passed out in 2020. I'm having an <b>extensive experience in working with Technologies like Data Science, Machine Learning and additionally I have web developement skills.</b>
 
 <br>
-
 - <b>Data Science practitioner</b> with the hands-on Experience in <b>Python, Flask, Streamlit, SQL</b>
 
 <br>
-
 - Experienced in developing <b>Data Science web applications with Machine Learning using Python</b>. Machine Learning Techniques includes <b>Linear Regression, Logistic Regression, Random Forest and some advanced Machine Learning Algorithms.</b>
 
 <br>
-
 - Skilled in libraries such as <b>Sklearn, Scipy, Numpy, Pandas, Matplotlib, Plotly, Seaborn, Imblearn, Tableau for Data Visualization.</b>
 <br>
+
 - Additional skills are <b>HTML & CSS, Bootstrap</b> and basic <b>Data Structures and algorithms.</b>
+
 <br>
 -Possessing an <b>ability to be a good data storyteller.</b>
+
 <br>
 - <b>Team Player with good communication skills and self-motivated attitude.</b>
+
 <br>
 - <b>Contributor to the Data Science Community.</b>
+
 <br><br>
 
 ### Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
