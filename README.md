@@ -1,6 +1,6 @@
 # Hi there, I am Amey Band 👋
 
-<img src="https://github.com/Amey23/Amey23/blob/main/main.gif" width="900" height="400" />
+<img src="https://github.com/Amey23/Amey23/blob/main/main.gif" width="900" height="500" />
 <br>
 
 ## Objective:
