@@ -5,6 +5,7 @@
 
 ## About Me
 <br>
+
 - I am BE Computer Science Engineering Graduate passed out in 2020. I'm having an <b>extensive experience in working with Technologies like Data Science, Machine Learning and additionally I have web developement skills.</b>
 
 - <b>Data Science practitioner</b> with the hands-on Experience in <b>Python, Flask, Streamlit, SQL</b>
@@ -15,7 +16,7 @@
 
 - Additional skills are <b>HTML & CSS, Bootstrap</b> and basic <b>Data Structures and algorithms.</b>
 
--Possessing an <b>ability to be a good data storyteller.</b>
+- Possessing an <b>ability to be a good data storyteller.</b>
 
 - <b>Team Player with good communication skills and self-motivated attitude.</b>
 
@@ -26,23 +27,25 @@
 ### Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 
 <br>
+
 <html><font size="15"><b>MY Skill Set</b> </font></html>
+
 - <b>Technology</b>               : Data Analytics, Machine Learning, Data Visualization
-<br>
+
 - <b>Programming</b>               : Python, C, C++
-<br>
+
 - <b>Packages/Frameworks </b>      : Numpy, Pandas, Scikit-learn, Statsmodels, Scipy, NLTK, Tensorflow
-<br>
+
 - <b>Visualization Libraries</b>   : Matplotlib, Seaborn, Plotly 
-<br>
+
 - <b>Software / IDE</b>            : Jupyter Notebook, Spyder IDE, Sublime Text
-<br>
+
 - <b>Deployment Frameworks</b>     : Flask, Streamlit, Dash 
-<br>
+
 - <b>Cloud Platforms</b>           : Heroku Cloud Platform 
-<br>
+
 - <b>Exposure </b>                 : R, RStudio, PyCharm IDE, Data Structures and Algorithms,OOPs
-<br>
+
 <!--
 <br><br>
 ![Alt Text](https://github.com/DheerajKumar97/DheerajKumar97/blob/master/res%20gif.gif)
