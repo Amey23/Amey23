@@ -23,9 +23,11 @@
 - <b>Contributor to the Data Science Community.</b>
 
 <br><br>
+<b>
 ```
- <b>Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.<b>
+ Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 ```
+<b>
 <br>
 
 <html><font size="15"><b>MY Skill Set</b> </font></html>
