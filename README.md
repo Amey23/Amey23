@@ -21,11 +21,13 @@
 - <b>Contributor to the Data Science Community.</b>
 
 <br>
+
 <b>
 ```
  Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 ```
 <b>
+ 
 <br>
 
 ## MY Skill Set
