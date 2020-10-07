@@ -4,8 +4,6 @@
 > Extremely motivated towards enhancing my solution deriving skills to develop new innovative machine learning models for predicting the accurate results and achieve the maximum accuracy. Always looking to shape up myself with every update of my skilled technology. Looking for the best opportunities to improve my understanding of solving real-life problems in machine learning and deep learning domain. 
 
 ## About Me
-<br>
-
 - I am BE Computer Science Engineering Graduate passed out in 2020. I'm having an <b>extensive experience in working with Technologies like Data Science, Machine Learning and additionally I have web developement skills.</b>
 
 - <b>Data Science practitioner</b> with the hands-on Experience in <b>Python, Flask, Streamlit, SQL</b>
@@ -30,7 +28,7 @@
 <b>
 <br>
 
-<html><font size="15"><b>MY Skill Set</b> </font></html>
+## MY Skill Set
 
 - <b>Technology</b>               : Data Analytics, Machine Learning, Data Visualization
 
