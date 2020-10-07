@@ -10,12 +10,11 @@
 <br>
 - <b>Data Science practitioner</b> with the hands-on Experience in <b>Python, Flask, Streamlit, SQL</b>
 
-<br>
 - Experienced in developing <b>Data Science web applications with Machine Learning using Python</b>. Machine Learning Techniques includes <b>Linear Regression, Logistic Regression, Random Forest and some advanced Machine Learning Algorithms.</b>
 
-<br>
+
 - Skilled in libraries such as <b>Sklearn, Scipy, Numpy, Pandas, Matplotlib, Plotly, Seaborn, Imblearn, Tableau for Data Visualization.</b>
-<br>
+
 
 - Additional skills are <b>HTML & CSS, Bootstrap</b> and basic <b>Data Structures and algorithms.</b>
 
