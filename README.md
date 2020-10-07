@@ -7,7 +7,7 @@
 <br>
 - I am BE Computer Science Engineering Graduate passed out in 2020. I'm having an <b>extensive experience in working with Technologies like Data Science, Machine Learning and additionally I have web developement skills.</b>
 <br>
-- <b>Data Science practitioner</b> with a Hands-on Experience in <b>Python, Flask, Streamlit, SQL</b>
+- <b>Data Science practitioner</b> with the hands-on Experience in <b>Python, Flask, Streamlit, SQL</b>
 <br>
 - Experienced in developing <b>Data Science web applications with Machine Learning using Python</b>. Machine Learning Techniques includes <b>Linear Regression, Logistic Regression, Random Forest and some advanced Machine Learning Algorithms.</b>
 <br>
@@ -54,3 +54,5 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+- jchchchccj
