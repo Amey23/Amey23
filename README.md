@@ -12,19 +12,17 @@
 <br>
 - Skilled in libraries such as <b>Sklearn, Scipy, Numpy, Pandas, Matplotlib, Plotly, Seaborn, Imblearn, Tableau for Data Visualization.</b>
 <br>
--  Additional skills are <b>HTML & CSS, Bootstrap</b> and basic <b>Data Structures and algorithms.</b>
+- Additional skills are <b>HTML & CSS, Bootstrap</b> and basic <b>Data Structures and algorithms.</b>
 <br>
--  Possessing an <b>ability to be a good data storyteller.</b>
+- Possessing an <b>ability to be a good data storyteller.</b>
 <br>
--  <b>Team Player with good communication skills and self-motivated attitude.</b>
+- <b>Team Player with good communication skills and self-motivated attitude.</b>
 <br>
--  <b>Contributor to the Data Science Community.</b>
+- <b>Contributor to the Data Science Community.</b>
 <br><br>
-### Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
-
-<html><font size="15"><b>MY Skill Set</b> </font></html>
+## Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 <br>
-
+<html><font size="15"><b>MY Skill Set</b> </font></html>
 - <b>Technology</b>               : Data Analytics, Machine Learning, Data Visualization
 <br>
 - <b>Programming</b>               : Python, C, C++
