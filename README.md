@@ -38,9 +38,9 @@
 
 ## Skills:
 
-- <b>Technology</b>                : Data Analytics, Machine Learning, Data Visualization
+- <b>Technology</b>                : Data Analytics, Machine Learning, Data Visualization, NLP
 
-- <b>Programming</b>               : Python, C, C++
+- <b>Programming</b>               : Python, C, C++, Data Structures and Algorithms, OOPs
 
 - <b>Packages/Frameworks </b>      : Numpy, Pandas, Scikit-learn, Statsmodels, Scipy, NLTK, Tensorflow
 
@@ -50,9 +50,9 @@
 
 - <b>Deployment Frameworks</b>     : Flask, Streamlit, Dash 
 
-- <b>Cloud Platforms</b>           : Heroku Cloud Platform 
+- <b>Cloud Platforms</b>           : Heroku Cloud Platform, AWS
 
-- <b>Exposure </b>                 : R, RStudio, PyCharm IDE, Data Structures and Algorithms, OOPs
+- <b>Exposure </b>                 : R, RStudio, Ouantum Computing
 
 
 <br>
