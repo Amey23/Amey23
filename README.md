@@ -4,7 +4,7 @@
 <br>
 
 ## Objective:
-> Extremely motivated towards enhancing my solution deriving skills to develop new innovative machine learning models for predicting the accurate results and achieve the maximum accuracy. Always looking to shape up myself with every update of my skilled technology. Looking for the best opportunities to improve my understanding of solving real-life problems in machine learning and deep learning domain. 
+> Extremely motivated towards converting business requirements into technical solutions. Strong in design and integration with intuitive problem-solving skills. Experienced in the complete product development lifecycle of software applications. A fast learner focusing on end-to-end implementation of ideas rather than learnings only. Looking for an opportunity to work in a challenging environment to prove my skills and utilize my knowledge & intelligence in the growth of the organization. 
 <br>
 
 ## About Me:
